@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "572772243457",
+    "project_id": "fitfitmeal",
+    "storage_bucket": "fitfitmeal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572772243457:android:06fd8c7d2db677a354c800",
+        "android_client_info": {
+          "package_name": "com.example.fit_fit_meal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572772243457-ekpnm8g84k25vhou66aemie2637o2vm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASXSnd_p6l0JjERNnOp1M0SN87-4RY0b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572772243457-ekpnm8g84k25vhou66aemie2637o2vm2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "572772243457-32gughj64drmri037mtnspt6maj0k0j8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fitFitMeal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

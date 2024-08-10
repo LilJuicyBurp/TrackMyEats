@@ -1,6 +1,6 @@
 TrackMyEats is an app for android and IOS. It has been developed using Dart and Flutter technology. The app allows the user to calculate the calories consumed for the user. The user is able to search for a product by name or product barcode
 
-Demo:
+## Demo
 ![p1](https://github.com/user-attachments/assets/a08aa440-4900-4341-9f84-1f664e26889d)
 ![p2](https://github.com/user-attachments/assets/d8ca5023-72f3-48ac-a380-496d21251333)
 ![p3](https://github.com/user-attachments/assets/e99327a2-bd71-473d-baab-f9cb1db60918)
